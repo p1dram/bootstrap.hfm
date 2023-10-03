@@ -1,0 +1,12 @@
+
+.header-body{
+    position: fixed;
+    z-index: 1000;
+   width: 100%;
+   padding: 0px;
+}
+.container-fluid{
+    padding: 0px;
+   
+}
+
